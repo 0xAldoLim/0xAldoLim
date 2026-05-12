@@ -9,7 +9,7 @@
 
   <p>
     <a href="mailto:aldolimsaputra@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-aldolim2006-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gmail-Aldo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://github.com/0xAldoLim">
       <img src="https://img.shields.io/badge/GitHub-0xAldoLim-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -113,24 +113,21 @@
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 &nbsp;GitHub Analytics
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/0xAldoLim">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=0xAldoLim&show_icons=true&theme=algolia&hide_border=true&rank_icon=github&cache_seconds=86400" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xAldoLim&show_icons=true&theme=onedark"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xAldoLim&layout=compact&langs_count=8&theme=onedark"/>
   </a>
-  <a href="https://github.com/0xAldoLim">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAldoLim&layout=compact&langs_count=8&card_width=320&theme=algolia&hide_border=true&cache_seconds=86400" />
-  </a>
-</div>
-
+</p>
 ---
 
 ## 🤝 Connect with Me
 
 <div align="center">
   <a href="mailto:aldolimsaputra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aldolim2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-aldolimsaputra%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/aldo-lim/">
     <img src="https://img.shields.io/badge/LinkedIn-Aldo%20Lim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>

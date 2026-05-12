@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    <a href="mailto:aldolim2006@gmail.com">
+    <a href="mailto:aldolimsaputra@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-aldolim2006-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://github.com/0xAldoLim">
@@ -117,8 +117,10 @@
 
 <div align="center">
   <a href="https://github.com/0xAldoLim">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xAldoLim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAldoLim&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=0xAldoLim&show_icons=true&theme=algolia&hide_border=true&rank_icon=github&cache_seconds=86400" />
+  </a>
+  <a href="https://github.com/0xAldoLim">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAldoLim&layout=compact&langs_count=8&card_width=320&theme=algolia&hide_border=true&cache_seconds=86400" />
   </a>
 </div>
 
@@ -127,7 +129,7 @@
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="mailto:aldolim2006@gmail.com">
+  <a href="mailto:aldolimsaputra@gmail.com">
     <img src="https://img.shields.io/badge/Email-aldolim2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/aldo-lim/">
